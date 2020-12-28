@@ -1,5 +1,7 @@
 # Add your code here
 
+require 'pry'
+
 class Dog 
   @@all = [ ]
 
